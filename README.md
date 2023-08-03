@@ -1,5 +1,5 @@
 # Spoovide
-a mould injection technique for creating blow molded cooked spam shapes
+a mould injection technique for creating blow moulded cooked spam shapes
 
 Spoovide zerodotzero: a bad idea, let's make spooshi
 
