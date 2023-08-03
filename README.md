@@ -1,7 +1,7 @@
 # Spoovide
 a mould injection technique for creating blow molded cooked spam shapes
 
-Spoovide zerodotzero: a bad idea
+Spoovide zerodotzero: a bad idea, let's make spooshi
 
 the idea:
 
